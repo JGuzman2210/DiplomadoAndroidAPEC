@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginSkype</string>
+    <string name="todo">TODO</string>
+    <string name="skype_logo">Skype Logo</string>
+    <string name="microsoft_logo">Microsoft Logo</string>
+    <string name="inicio_seccion">Iniciar sesión</string>
+    <string name="continuar_skype">Continuar en Skype</string>
+    <string name="hint_name">jorgeguzman2210@Hotmail.com</string>
+    <string name="seguir">Siguiente</string>
+    <string name="hint_namepass">Passport</string>
+    <string name="iniciar_sesion">Iniciar</string>
+</resources>
